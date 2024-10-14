@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Yaseerahk
 - 👀 I’m interested in reading and learning new things
 - 🌱 I’m currently learning some coding and new web designs 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Yaseerahk/Yaseerahk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
