@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Yaseerahk
+- 👋 Hi, I’m Yaseerah
 - 👀 I’m interested in reading and learning new things
-- 🌱 I’m currently learning some coding and new web designs 
+- 🌱 I’m currently learning some python coding and new web designs
+-  If you need to contact me email me at yaseerahkader2309@gmail.com
+-  follow my LinkedIn at Yaseerah Kader
 
 
 <!---
